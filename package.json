@@ -1,0 +1,14 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recExpl.js",
+  "scripts": {
+    "start": "node recExpl.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.20.0"
+  }
+}
